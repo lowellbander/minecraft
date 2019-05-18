@@ -83,15 +83,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "has_stick": "2019-05-01 21:35:24 -0700"
+      "has_planks": "2019-05-17 20:40:20 -0700"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-05-01 21:35:24 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2019-05-01 21:35:24 -0700"
     },
     "done": true
   },
@@ -152,6 +158,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2019-05-01 22:02:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2019-05-17 20:35:42 -0700"
     },
     "done": true
   },
@@ -218,6 +230,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2019-05-01 22:36:45 -0700",
+      "cooked_beef": "2019-05-17 20:15:36 -0700",
       "cooked_chicken": "2019-05-01 22:36:16 -0700"
     },
     "done": false
@@ -261,6 +274,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2019-05-01 22:02:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2019-05-17 20:40:20 -0700"
     },
     "done": true
   },
@@ -540,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2019-05-17 20:40:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-01 21:58:14 -0700"
@@ -586,7 +611,8 @@
     "criteria": {
       "minecraft:skeleton": "2019-05-01 21:45:54 -0700",
       "minecraft:spider": "2019-05-01 22:37:52 -0700",
-      "minecraft:zombie": "2019-05-01 21:45:44 -0700"
+      "minecraft:zombie": "2019-05-01 21:45:44 -0700",
+      "minecraft:zombie_villager": "2019-05-17 20:30:00 -0700"
     },
     "done": false
   },
@@ -632,6 +658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2019-05-17 20:40:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-01 22:13:35 -0700"
@@ -665,6 +697,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-01 21:58:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2019-05-17 20:40:20 -0700"
     },
     "done": true
   },
@@ -764,6 +802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2019-05-17 20:40:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-05-01 21:52:38 -0700"
@@ -791,6 +835,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-05-01 22:32:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2019-05-17 20:35:42 -0700"
     },
     "done": true
   },
@@ -914,6 +964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-05-17 20:40:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-05-03 16:48:34 -0700"
@@ -1030,8 +1086,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-05-01 21:32:16 -0700",
       "minecraft:mountains": "2019-05-03 16:56:42 -0700",
+      "minecraft:forest": "2019-05-01 21:32:16 -0700",
       "minecraft:river": "2019-05-03 16:53:37 -0700",
       "minecraft:wooded_mountains": "2019-05-03 16:56:22 -0700",
       "minecraft:wooded_hills": "2019-05-03 16:55:11 -0700",
@@ -1123,6 +1179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2019-05-17 20:40:20 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-05-01 22:02:40 -0700"
@@ -1162,6 +1224,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2019-05-11 22:35:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-05-17 20:40:20 -0700"
     },
     "done": true
   },
@@ -1237,5 +1305,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }
