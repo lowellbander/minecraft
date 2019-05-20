@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-05-19 18:17:07 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2019-05-01 21:36:49 -0700"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2019-05-11 22:17:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2019-05-19 18:22:42 -0700"
     },
     "done": true
   },
@@ -535,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-05-19 18:42:24 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-05-11 22:32:21 -0700"
@@ -604,6 +622,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-01 21:33:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-05-19 18:22:42 -0700"
     },
     "done": true
   },
@@ -929,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2019-05-19 18:35:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-05-01 21:32:09 -0700"
@@ -944,6 +974,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2019-05-17 20:15:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2019-05-19 18:35:20 -0700"
     },
     "done": true
   },
@@ -968,6 +1004,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2019-05-03 16:58:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2019-05-19 18:22:02 -0700"
     },
     "done": true
   },
@@ -1235,6 +1277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2019-05-19 18:35:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2019-05-01 21:31:45 -0700"
@@ -1327,8 +1375,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-05-19 18:22:48 -0700",
       "minecraft:forest": "2019-05-01 21:32:40 -0700",
       "minecraft:mountains": "2019-05-17 19:57:12 -0700",
+      "minecraft:deep_frozen_ocean": "2019-05-19 18:24:21 -0700",
+      "minecraft:beach": "2019-05-19 18:21:57 -0700",
       "minecraft:river": "2019-05-01 21:33:41 -0700",
       "minecraft:wooded_mountains": "2019-05-17 19:56:58 -0700",
       "minecraft:wooded_hills": "2019-05-01 21:33:01 -0700",
@@ -1468,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2019-05-19 18:22:42 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-05-17 20:35:04 -0700"
@@ -1591,6 +1648,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-11 22:01:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2019-05-19 18:17:07 -0700"
     },
     "done": true
   },
