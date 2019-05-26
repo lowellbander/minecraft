@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2019-05-25 23:37:45 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-03 16:58:51 -0700"
@@ -292,6 +298,7 @@
       "cooked_porkchop": "2019-05-01 21:59:42 -0700",
       "cooked_mutton": "2019-05-03 17:02:46 -0700",
       "cooked_beef": "2019-05-11 22:31:33 -0700",
+      "porkchop": "2019-05-25 23:37:45 -0700",
       "apple": "2019-05-01 21:48:58 -0700",
       "bread": "2019-05-01 22:20:31 -0700",
       "rotten_flesh": "2019-05-01 21:46:24 -0700",
@@ -320,6 +327,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-05-01 21:55:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2019-05-25 23:37:43 -0700"
     },
     "done": true
   },
@@ -771,6 +784,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2019-05-25 23:37:26 -0700",
       "minecraft:skeleton": "2019-05-01 22:09:04 -0700",
       "minecraft:spider": "2019-05-01 21:47:11 -0700",
       "minecraft:creeper": "2019-05-17 20:15:29 -0700",
@@ -836,6 +850,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2019-05-01 21:55:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2019-05-25 23:37:45 -0700"
     },
     "done": true
   },
@@ -950,6 +970,12 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2019-05-18 21:29:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-05-25 23:30:24 -0700"
     },
     "done": true
   },
@@ -1121,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2019-05-25 23:37:43 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-05-01 21:31:41 -0700"
@@ -1184,6 +1216,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2019-05-18 21:58:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2019-05-25 23:37:43 -0700"
     },
     "done": true
   },
@@ -1355,6 +1393,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-05-25 23:38:27 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-01 21:33:17 -0700"
@@ -1378,6 +1422,8 @@
       "minecraft:cold_ocean": "2019-05-19 18:22:48 -0700",
       "minecraft:forest": "2019-05-01 21:32:40 -0700",
       "minecraft:mountains": "2019-05-17 19:57:12 -0700",
+      "minecraft:taiga": "2019-05-25 23:51:18 -0700",
+      "minecraft:taiga_hills": "2019-05-26 00:06:59 -0700",
       "minecraft:deep_frozen_ocean": "2019-05-19 18:24:21 -0700",
       "minecraft:beach": "2019-05-19 18:21:57 -0700",
       "minecraft:river": "2019-05-01 21:33:41 -0700",
