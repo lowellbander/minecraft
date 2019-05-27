@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2019-05-27 11:50:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-05-17 20:40:20 -0700"
@@ -573,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-05-27 11:46:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-05-01 21:52:47 -0700"
@@ -648,6 +660,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-25 23:25:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-05-27 11:34:54 -0700"
     },
     "done": true
   },
@@ -1231,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-05-27 11:34:54 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-05-01 22:32:55 -0700"
@@ -1569,8 +1593,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-05-03 16:56:42 -0700",
       "minecraft:forest": "2019-05-01 21:32:16 -0700",
+      "minecraft:mountains": "2019-05-03 16:56:42 -0700",
       "minecraft:taiga": "2019-05-25 23:50:59 -0700",
       "minecraft:taiga_hills": "2019-05-26 00:11:49 -0700",
       "minecraft:beach": "2019-05-25 23:34:16 -0700",
@@ -1732,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2019-05-27 11:50:15 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-05-01 21:52:47 -0700"
@@ -1888,5 +1918,5 @@
     },
     "done": true
   },
-  "DataVersion": 1957
+  "DataVersion": 1963
 }

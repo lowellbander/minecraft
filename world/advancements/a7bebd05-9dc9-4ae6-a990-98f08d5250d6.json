@@ -608,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2019-05-27 11:11:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-03 16:58:51 -0700"
@@ -1099,6 +1105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2019-05-27 11:11:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2019-05-01 22:10:51 -0700"
@@ -1420,8 +1432,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-05-19 18:22:48 -0700",
-      "minecraft:forest": "2019-05-01 21:32:40 -0700",
       "minecraft:mountains": "2019-05-17 19:57:12 -0700",
+      "minecraft:forest": "2019-05-01 21:32:40 -0700",
       "minecraft:taiga": "2019-05-25 23:51:18 -0700",
       "minecraft:taiga_hills": "2019-05-26 00:06:59 -0700",
       "minecraft:deep_frozen_ocean": "2019-05-19 18:24:21 -0700",
@@ -1511,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-05-27 11:11:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-01 21:33:17 -0700"
@@ -1532,6 +1550,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-05-03 17:25:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2019-05-27 11:24:11 -0700"
     },
     "done": true
   },
@@ -1703,5 +1727,5 @@
     },
     "done": true
   },
-  "DataVersion": 1957
+  "DataVersion": 1963
 }
