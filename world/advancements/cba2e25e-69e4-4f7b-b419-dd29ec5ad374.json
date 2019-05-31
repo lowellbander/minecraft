@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2019-05-30 23:42:46 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-05-11 22:34:49 -0700"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-05-01 21:36:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-05-30 23:27:18 -0700"
     },
     "done": true
   },
@@ -367,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-05-30 23:42:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-05-01 22:02:40 -0700"
@@ -545,7 +563,8 @@
     "criteria": {
       "minecraft:sheep": "2019-05-19 18:24:43 -0700",
       "minecraft:cow": "2019-05-11 22:35:12 -0700",
-      "minecraft:chicken": "2019-05-19 18:27:51 -0700"
+      "minecraft:chicken": "2019-05-19 18:27:51 -0700",
+      "minecraft:wolf": "2019-05-30 23:29:39 -0700"
     },
     "done": false
   },
@@ -588,6 +607,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-05-01 21:52:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-05-30 23:16:47 -0700"
     },
     "done": true
   },
@@ -813,6 +838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-05-30 22:50:31 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-01 21:58:14 -0700"
@@ -1027,6 +1058,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-05-30 23:42:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-05-30 23:16:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-01 21:58:14 -0700"
@@ -1144,6 +1187,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-05-18 21:50:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-05-30 22:50:31 -0700"
     },
     "done": true
   },
@@ -1435,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-05-30 22:50:31 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-05-03 16:48:34 -0700"
@@ -1593,6 +1648,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-05-30 23:12:57 -0700",
       "minecraft:forest": "2019-05-01 21:32:16 -0700",
       "minecraft:mountains": "2019-05-03 16:56:42 -0700",
       "minecraft:taiga": "2019-05-25 23:50:59 -0700",
@@ -1601,6 +1657,7 @@
       "minecraft:river": "2019-05-03 16:53:37 -0700",
       "minecraft:wooded_mountains": "2019-05-03 16:56:22 -0700",
       "minecraft:wooded_hills": "2019-05-03 16:55:11 -0700",
+      "minecraft:stone_shore": "2019-05-30 23:20:29 -0700",
       "minecraft:swamp": "2019-05-25 23:52:00 -0700",
       "minecraft:plains": "2019-05-01 21:32:03 -0700"
     },
@@ -1822,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-05-30 23:42:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-05-01 22:02:40 -0700"
@@ -1831,6 +1894,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-25 23:25:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2019-05-30 23:27:18 -0700"
     },
     "done": true
   },
@@ -1879,6 +1948,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-05-01 21:52:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2019-05-30 23:27:18 -0700"
     },
     "done": true
   },

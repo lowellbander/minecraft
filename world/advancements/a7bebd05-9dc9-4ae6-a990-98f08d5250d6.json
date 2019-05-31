@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_at_least_9_wheat": "2019-05-03 17:06:18 -0700"
@@ -86,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-03 16:47:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
     },
     "done": true
   },
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2019-05-01 21:32:09 -0700"
@@ -275,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-05-30 23:11:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-01 22:02:45 -0700"
@@ -298,6 +322,7 @@
       "cooked_porkchop": "2019-05-01 21:59:42 -0700",
       "cooked_mutton": "2019-05-03 17:02:46 -0700",
       "cooked_beef": "2019-05-11 22:31:33 -0700",
+      "baked_potato": "2019-05-30 23:19:13 -0700",
       "porkchop": "2019-05-25 23:37:45 -0700",
       "apple": "2019-05-01 21:48:58 -0700",
       "bread": "2019-05-01 22:20:31 -0700",
@@ -495,7 +520,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2019-05-01 22:33:34 -0700",
-      "minecraft:chicken": "2019-05-17 19:47:44 -0700"
+      "minecraft:chicken": "2019-05-17 19:47:44 -0700",
+      "minecraft:wolf": "2019-05-30 23:11:59 -0700"
     },
     "done": false
   },
@@ -638,6 +664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-05-30 23:11:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-01 21:33:17 -0700"
@@ -746,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-05-30 23:24:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-11 22:01:23 -0700"
@@ -779,6 +817,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-05-01 22:02:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
     },
     "done": true
   },
@@ -823,6 +867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2019-05-30 22:46:32 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2019-05-11 22:08:12 -0700"
@@ -850,6 +900,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-03 16:58:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
     },
     "done": true
   },
@@ -997,6 +1053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2019-05-30 23:37:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-05-01 22:02:45 -0700"
@@ -1018,6 +1080,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-05-18 21:29:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-05-30 23:24:51 -0700"
     },
     "done": true
   },
@@ -1048,6 +1116,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-03 16:58:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-05-30 23:11:29 -0700"
     },
     "done": true
   },
@@ -1195,6 +1269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-01 22:02:45 -0700"
@@ -1297,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-05-30 23:24:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-05-01 21:32:00 -0700"
@@ -1312,6 +1398,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2019-05-01 21:55:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
     },
     "done": true
   },
@@ -1348,6 +1440,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-05-11 22:17:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-05-30 23:11:11 -0700"
     },
     "done": true
   },
@@ -1634,6 +1732,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2019-05-01 21:55:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-05-30 23:37:58 -0700"
     },
     "done": true
   },
