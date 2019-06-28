@@ -561,6 +561,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2019-06-27 21:09:32 -0700",
       "minecraft:cow": "2019-05-01 22:33:34 -0700",
       "minecraft:chicken": "2019-05-17 19:47:44 -0700",
       "minecraft:wolf": "2019-05-30 23:11:59 -0700"
@@ -1221,6 +1222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-06-27 20:43:33 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-05-18 21:58:32 -0700"
@@ -1344,6 +1351,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-03 16:47:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-06-27 20:43:33 -0700"
     },
     "done": true
   },
@@ -1626,8 +1639,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-05-19 18:22:48 -0700",
-      "minecraft:mountains": "2019-05-17 19:57:12 -0700",
       "minecraft:forest": "2019-05-01 21:32:40 -0700",
+      "minecraft:mountains": "2019-05-17 19:57:12 -0700",
       "minecraft:taiga": "2019-05-25 23:51:18 -0700",
       "minecraft:taiga_hills": "2019-05-26 00:06:59 -0700",
       "minecraft:deep_frozen_ocean": "2019-05-19 18:24:21 -0700",
@@ -1660,6 +1673,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-05-01 21:33:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-06-27 20:43:33 -0700"
     },
     "done": true
   },
@@ -1951,5 +1970,5 @@
     },
     "done": true
   },
-  "DataVersion": 1963
+  "DataVersion": 1968
 }
